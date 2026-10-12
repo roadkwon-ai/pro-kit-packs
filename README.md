@@ -26,6 +26,6 @@ pro-kit의 `tutorials/packs.json`에 적힌 주소에서 zip을 받아 sha256을
 | `jecheol` | [제철상자](https://roadkwon-ai.github.io/pro-kit/jecheol/) | [pack-jecheol](https://github.com/roadkwon-ai/pro-kit-packs/releases/tag/pack-jecheol) | 18.2MB |
 | `pacecrew` | [PACECREW](https://roadkwon-ai.github.io/pro-kit/pacecrew/) | [pack-pacecrew](https://github.com/roadkwon-ai/pro-kit-packs/releases/tag/pack-pacecrew) | 16.6MB |
 | `uptrail` | [Uptrail](https://roadkwon-ai.github.io/pro-kit/uptrail/) | [pack-uptrail](https://github.com/roadkwon-ai/pro-kit-packs/releases/tag/pack-uptrail) | 3.2MB |
-| `slidelab` | [슬라이드랩](https://roadkwon-ai.github.io/pro-kit/slidelab/) | [pack-slidelab](https://github.com/roadkwon-ai/pro-kit-packs/releases/tag/pack-slidelab) | 34.9MB |
+| `slidelab` | [슬라이드랩](https://roadkwon-ai.github.io/pro-kit/slidelab/) | [pack-slidelab](https://github.com/roadkwon-ai/pro-kit-packs/releases/tag/pack-slidelab) | 33.6MB |
 
-프리셋은 [프로킷 사이트](https://prokit-web.vercel.app/)에서 볼 수 있어요. 팩마다 릴리스는 최신판 하나뿐이고, 팩을 바꾸면 같은 이름으로 다시 올려요. 올리는 절차는 pro-kit의 `AGENTS.md`에 있어요.
+프리셋은 [프로킷 사이트](https://prokit-web.vercel.app/)에서 볼 수 있어요. 팩마다 릴리스는 최신판 하나뿐이고, 팩을 바꾸면 같은 이름으로 다시 올려요. 게시·재발행은 pro-kit-web에서 `prokit-preset-publish` 관리 스킬로 진행해요.
